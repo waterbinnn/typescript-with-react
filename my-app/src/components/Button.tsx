@@ -14,3 +14,9 @@ function Button(props: ButtonProps) {
 }
 
 export default Button;
+
+{/* <Button
+handleClick={(event, id) => {
+    console.log('clicked!', event, id);
+}}
+/> */}

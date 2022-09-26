@@ -8,3 +8,13 @@ function Container(props: ContainerProps) {
 }
 
 export default Container;
+
+{
+/* <Container
+    styles={{
+        border: '1px solid gray',
+        padding: '5rem',
+        color: 'purple',
+    }}
+></Container>; */
+}
